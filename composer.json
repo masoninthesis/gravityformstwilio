@@ -1,6 +1,6 @@
 
 {
-  "name": "masoninthesis/gravityformsstripe",
+  "name": "masoninthesis/gravityformstwilio",
   "description": "Fork of GravityForms repo so we can use it in our composer architecture.",
   "type": "wordpress-plugin",
   "license": "GPL-3.0",
